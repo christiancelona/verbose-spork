@@ -21,6 +21,7 @@ MANFID 000074 Transcend Information
 MANFID 000076 Patriot Memory
 MANFID 000082 Sony
 MANFID 00009c Angelbird / Hoodman
+MANFID 0000c4 Dongguan Keyixin Technology Co.
 
 #
 # List of known/observed SD card oemid's
@@ -35,6 +36,7 @@ MANFID 00009c Angelbird / Hoodman
 OEMID 3432 Kingston # "42"
 OEMID 4144 ADATA # "AD"
 OEMID 4245 Lexar / Angelbird / Hoodman # "BE"
+OEMID 4254 KOOTION # "BT"
 OEMID 4a45 Transcend Information # "JE"
 OEMID 4a54 Sony # "JT"
 OEMID 4a60 Transcend Information # "J`"
